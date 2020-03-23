@@ -1,0 +1,1 @@
+Simple project to practice in whiteboart tasks from "Cracking the code interview" book.
